@@ -8,7 +8,7 @@ Additionally, here are the different images we have in store:
 [[file:bolts-box-with-info.png]]
 [[file:drilled-plywood.png]]
 [[file:wood-for-the-frame.png]]
-file:frame-design.jpg
+[[file:frame-design.jpg]]
 
 Here is the image with the pricing details (in spanish) for the plywood and the pine hardwood itself, on different measurements to the ones we would expect. They had a 25mm plywood that we ended up choosing, but maybe it's overkill.
-file:pricing-details.png
+[[file:pricing-details.png]]
